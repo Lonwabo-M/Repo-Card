@@ -1,0 +1,5 @@
+{
+  "name": "Professional Report Card Maker",
+  "description": "An elegant platform to automatically generate, review, and edit student report cards from uploaded Excel/CSV files. Features include automatic grade calculation and commenting.",
+  "requestFramePermissions": []
+}
